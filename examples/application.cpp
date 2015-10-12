@@ -1,6 +1,6 @@
 /* Includes ------------------------------------------------------------------*/
 #include "application.h"
-#include "NCD16PWM.h"
+#include "NCD16PWM_IFTTT.h"
 
 SYSTEM_MODE(AUTOMATIC);
 
